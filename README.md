@@ -4,13 +4,13 @@
 </h1>
 
 ### A little about me...
-- <img width="30px" src="https://media.giphy.com/media/TjA6DAFMkIf5cZCOMz/giphy.gif">&nbsp;&nbsp; I'm a **Undergraduate Student in Computer Engineering at [ University of São Paulo Brazil](https://www5.usp.br/)**
+- 🎓&nbsp; I'm a **Undergraduate Student in Computer Engineering at [ University of São Paulo Brazil](https://www5.usp.br/)**
 
-- <img width="30px" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">&nbsp;&nbsp; I'm a **Tech Enthusiast**  passionate about learning and working with new tech<br/>
+- 💻&nbsp; I'm a **Tech Enthusiast**  passionate about learning and working with new tech<br/>
 
-- <img width="30px" src="https://media.giphy.com/media/UuNtTMw91VWZhr5kQs/giphy.gif">&nbsp;&nbsp; I’m currently part of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)** who works with robotics projects, from controllers, autonomous and drones.
+- 🤖&nbsp; I’m currently part of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)** who works with robotics projects, from controllers, autonomous and drones.
 
-- <img width="25px" src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif">&nbsp;&nbsp; I'm a **computer technician from the technical college at [São Paulo State University](https://www2.unesp.br/)** where I started in the technology area.
+- 👩‍💻&nbsp; I'm a **computer technician from the technical college at [São Paulo State University](https://www2.unesp.br/)** where I started in the technology area.
 
 ### Find me at
 <div>

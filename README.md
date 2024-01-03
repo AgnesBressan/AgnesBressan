@@ -10,7 +10,7 @@
 
 - 🤖&nbsp; I’m currently part of **[Grupo SEMEAR](https://github.com/Grupo-SEMEAR-USP)** who works with robotics projects, from controllers, autonomous and drones.
 
-- 👩‍💻&nbsp; I'm a **computer technician from the technical college at [São Paulo State University](https://www2.unesp.br/)** where I started in the technology area.
+- 👩‍💻&nbsp; I'm a **Computer Technician from the technical college at [São Paulo State University](https://www2.unesp.br/)** where I started in the technology area.
 
 ### Find me at
 <div>
